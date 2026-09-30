@@ -120,7 +120,7 @@ No local installation of Python or PostgreSQL is required to run the complete sy
 Clone the repository and move into the project directory:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/omimah-4/TaskFlow.git
 cd TaskFlow
 ```
 
